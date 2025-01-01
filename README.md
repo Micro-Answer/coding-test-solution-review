@@ -1,4 +1,5 @@
-# coding-test-solution-review
-## 코딩 테스트 해결안 리뷰 
-### 자유롭게 의견 교환! 
-Let's go!
+# Coding Test Study
+
+|주차|문제번호|
+|:---:|:---|
+|week 1|백준 18258, 백준 2178|

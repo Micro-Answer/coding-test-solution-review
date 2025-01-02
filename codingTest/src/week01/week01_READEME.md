@@ -3,7 +3,7 @@
 ## 문제
 ### 
 1. 백준 18258 (queue2)
-2. 백준 2178
+2. 백준 2178 (미로탐색)
 3. 프로그래머스 '바탕화면 정리'
 4.
 
@@ -23,5 +23,6 @@
 
 - LinkedList 메소드
   - getLast() : return last element in this list, or throws NoSuchElementException if the list is empty.
-                 : 
-
+                 :
+*****
+[no2. 백준 2718](https://www.acmicpc.net/problem/2178)

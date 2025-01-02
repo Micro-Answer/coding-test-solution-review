@@ -8,7 +8,7 @@ import java.util.Queue;
  * 백준 18258 - 큐 2
  * <pre>큐를 구현하고 여섯 가지 명령(push, pop, size, empty, front, back)을 처리하는 프로그램</pre>
  *
- * <pre>사용 자료구조 : LinkedList, Queue</pre>
+ * <pre>사용 자료구조 : LinkedList, Queue, Collection</pre>
  * <pre>시간 복잡도 : O(1)</pre>
  */
 public class Baekjoon18258 {

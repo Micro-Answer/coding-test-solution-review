@@ -1,4 +1,4 @@
-package week1;
+package src.week1;
 
 /*
 - # 문자열이 포함된 좌표 이용해서 구하기

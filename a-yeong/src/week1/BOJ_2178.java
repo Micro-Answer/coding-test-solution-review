@@ -1,4 +1,4 @@
-package week1;
+package src.week1;
 
 import java.awt.*;
 import java.util.LinkedList;

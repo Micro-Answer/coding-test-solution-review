@@ -1,13 +1,13 @@
 ### IntelliJ IDEA ###
 .idea/
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
 /shelf/
 /workspace.xml
 /httpRequests/
 /dataSources/
 /dataSources.local.xml
-out/
-!**/src/main/**/out/
-!**/src/test/**/out/
 
 ### Eclipse ###
 .apt_generated

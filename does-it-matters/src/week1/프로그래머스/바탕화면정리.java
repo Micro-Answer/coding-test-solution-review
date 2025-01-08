@@ -19,6 +19,7 @@ public class Main {
         r = Math.max(wallpaper[d].lastIndexOf("#"), r);
 
         // - 확인한 위 아래 줄을 제외하고 좌우에서 찾기
+        // 캐시 지역성을 고려하면 좋지 못한 알고리즘
         outer: for (int j = 0; j < l; j++) {
             for (int i = u + 1; i < d; i++){
                 if (wallpaper[i].charAt(j) == '#'){

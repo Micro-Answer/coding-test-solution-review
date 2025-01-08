@@ -8,6 +8,8 @@ out/
 /httpRequests/
 /dataSources/
 /dataSources.local.xml
+.gitignore
+codingTest.iml
 
 ### Eclipse ###
 .apt_generated

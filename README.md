@@ -1,4 +1,15 @@
-# coding-test-solution-review
-## 코딩 테스트 해결안 리뷰 
-### 자유롭게 의견 교환! 
-Let's go!
+# 알고리즘 문제 풀이 목록
+
+## 💡 Programmers
+
+| 문제 번호                    |                                                        링크                                                        |
+|:-------------------------|:----------------------------------------------------------------------------------------------------------------:|
+| 12951. JadenCase 문자열 만들기 | [링크](https://github.com/Micro-Answer/coding-test-solution-review/tree/jihyun/jihyun/src/week1/programmers/12951) |
+| 12909. 올바른 괄호            | [링크](https://github.com/Micro-Answer/coding-test-solution-review/tree/jihyun/jihyun/src/week1/programmers/12909) |
+
+## 💡 Baekjoon
+
+| 문제 번호       |                                                      링크                                                       |
+|:------------|:-------------------------------------------------------------------------------------------------------------:|
+| 28278. 스택 2 | [링크](https://github.com/Micro-Answer/coding-test-solution-review/tree/jihyun/jihyun/src/week1/baekjoon/28278) |
+| 28279. 덱 2  | [링크](https://github.com/Micro-Answer/coding-test-solution-review/tree/jihyun/jihyun/src/week1/baekjoon/28279) |

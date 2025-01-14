@@ -13,3 +13,9 @@
 |:------------|:-------------------------------------------------------------------------------------------------------------:|
 | 28278. 스택 2 | [링크](https://github.com/Micro-Answer/coding-test-solution-review/tree/jihyun/jihyun/src/week1/baekjoon/28278) |
 | 28279. 덱 2  | [링크](https://github.com/Micro-Answer/coding-test-solution-review/tree/jihyun/jihyun/src/week1/baekjoon/28279) |
+
+# Coding Test Study
+
+|주차|문제번호|
+|:---:|:---|
+|week 1|백준 18258, 백준 2178, 프로그래머스 '바탕화면 정리'|

@@ -1,0 +1,7 @@
+/.idea
+/out
+.gitignore
+coding-test-solution-review.iml
+
+!/a-yeong
+!README.md
